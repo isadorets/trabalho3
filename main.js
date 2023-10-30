@@ -1,1 +1,1 @@
-alert ("Cique em ok para saber mais.")
+alert ("Você está entrando em um site informativo sobre a série The Office, para continuar clique em ok.")
